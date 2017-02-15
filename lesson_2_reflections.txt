@@ -1,1 +1,8 @@
 What happens when you initialize a repository? Why do you need to do it?
+It creates .git directory which contains GIT metadata. This is where GIT stores the configuration and history information of the repository
+
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+Staging area is inbetween working directory and the repository. It is there to monitor only the partial files that you want to track and commit. 
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
